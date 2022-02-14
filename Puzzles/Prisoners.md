@@ -26,3 +26,18 @@ The rules of the game are the following:
 4. If at some point a prisoner enters the interrogation room, and claims "All of the other prisoners came here at least once!", and is able to prove it, then the prisoners win.
 
 Can the prisoners decide a strategy before the start of the game, that guarantees them a victory?
+
+## Problem 3
+
+There are an infinity of prisoners arranged in a line, each one being able to see every prisoner after himself.
+More formally: For each natural number N, there is a prisoner with index N, able to see every single prisoner with index > N.
+
+Each prisoner is given a hat, either white or black. Of course, a prisoner cannot see his/her hat, and can only see the hats of prisoners he/she is able to see.
+
+They all have to say at the same time what color they beleive their hat is (being at the same time, they can't rely on what others are saying).
+
+ * Is it possible to help them with a strategy such that an infinity of them guesses corectly?
+ * By assuming the axiom of choice, is it possible to help them with a strategy such that only a finite number of prisoners have a wrong guess?
+
+
+
