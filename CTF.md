@@ -2,11 +2,12 @@
 
 ## Linux - Binary Exploitation
 
-1. binwalf
+1. binwalk
 2. exiftool
 3. ROPgadget
     `ROPgadget --binary=vulnerable --ropchain > rops` tries to generate a rop-chain to execve `/bin/sh`.
 4. pwntools
+1. pwninit
 1. Ghidra
 2. Ida Pro
 3. Binary Ninja

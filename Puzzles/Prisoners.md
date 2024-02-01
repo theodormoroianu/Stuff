@@ -39,5 +39,11 @@ They all have to say at the same time what color they beleive their hat is (bein
  * Is it possible to help them with a strategy such that an infinity of them guesses corectly?
  * By assuming the axiom of choice, is it possible to help them with a strategy such that only a finite number of prisoners have a wrong guess?
 
+## Problem 4
 
+There are N prisoners arranged in a line, with N + 2 colors on their hats. The colors are distinct.
+Prisoner 1 can see 2 ... N, prisoner 2 can see 3 ... N etc.
+
+Each prisoner, starting from the first one, says the color they beleive they have. They cannot repeat colors, but hear the answers of the other prisoners.
+How many can guess right?
 
